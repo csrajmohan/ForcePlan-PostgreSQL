@@ -8,4 +8,4 @@ A plug-in for PostgreSQL database engine, which can force the query optimizer in
 
 How to use:
 
-<Query> fpc <path_of_xml_file>
+Query fpc path_of_xml_file
