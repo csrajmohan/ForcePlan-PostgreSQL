@@ -1,5 +1,6 @@
 # ForcePlan-PostgreSQL
 Implementation of ForcePlan feature for PostgreSQL 9.3
+
 A plug-in for PostgreSQL database engine, which can force the query optimizer into choosing a user specified execution plan for a query.
 
 - Along with an SQL query, we can supply an execution plan as well in XML format.
